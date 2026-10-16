@@ -1,0 +1,14 @@
+*.aux
+*.log
+*.pdf
+*.tex
+*.synctex.gz
+*.fdb_latexmk
+*.fls
+*.out
+*.gz
+*.md
+
+
+__pycache__/
+.venv/
