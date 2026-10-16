@@ -8,6 +8,7 @@
 *.out
 *.gz
 *.md
+*.docx
 
 
 __pycache__/
